@@ -16,7 +16,7 @@ For this project, you’ll use Audacity to create a 90-second audio collage that
 [http://mmp.bmcc.cuny.edu/ananto.mohammad/fall-2018/mmp-100/project-3/](http://mmp.bmcc.cuny.edu/ananto.mohammad/fall-2018/mmp-100/project-3/)
 
 ### Description
-Your description goes here.
+hi everyone. I tried to sing that but i dont know hows it . Thanks
 
 ## Rules
 * **Do not** add or remove any files to this repo.
